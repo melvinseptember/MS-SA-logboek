@@ -19,3 +19,11 @@ Firebase in project implementeren en trial en error ivm data ophalen van collect
 	Duratie 3h
 Nabootsen Wireframe Bottom Toolbar Thomas
 	Duratie 2h 54m
+##10/10/21
+Firebase gekoppeld aan applicatie
+	Duratie 1h 58m
+#12/10/21
+Vergaderen over de prestaties van beide kanten
+	Duratie 32m
+Kleine fouten fixen in applicatie
+	Duratie 46m
