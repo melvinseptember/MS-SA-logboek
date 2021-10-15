@@ -27,3 +27,8 @@ Vergaderen over de prestaties van beide kanten
 	Duratie 32m
 Kleine fouten fixen in applicatie
 	Duratie 46m
+#15/10/21
+Artisten lijst fixen wegens lege fields
+	Duratie 2h 45m
+Skeleten Concept voor de albums maken
+	Duratie 1h 15m
