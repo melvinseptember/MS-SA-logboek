@@ -32,3 +32,8 @@ Artisten lijst fixen wegens lege fields
 	Duratie 2h 45m
 Skeleten Concept voor de albums maken
 	Duratie 1h 15m
+Youtube Data API research
+	Duratie 3h
+#16/10/21
+Youtube Data API research & videos
+	Duratie 4h 9m
