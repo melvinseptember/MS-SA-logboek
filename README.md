@@ -34,6 +34,8 @@ Skeleten Concept voor de albums maken
 	Duratie 1h 15m
 Youtube Data API research
 	Duratie 3h
+Commentaar geschreven in app voor Merge (Thomas)
+	Duratie 38m
 #16/10/21
 Youtube Data API research & videos
 	Duratie 4h 9m
