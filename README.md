@@ -65,3 +65,6 @@ Samen met Thomas de Youtube Data API bestuderen en proberen
 	4h 30m
 Nieuwe Visualizer (spectrum) maken en implementeren in AudioFreak
 	1h 16m
+#13/11/21
+Extra Angular crash course gevolgt voor extra kennis
+	3h 14m
