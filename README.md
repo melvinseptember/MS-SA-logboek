@@ -68,3 +68,15 @@ Nieuwe Visualizer (spectrum) maken en implementeren in AudioFreak
 #13/11/21
 Extra Angular crash course gevolgt voor extra kennis
 	3h 14m
+#15/11/21
+De Youtube Data API omzetten in angular
+	3h 27m
+#18/11/21
+Omzetten Youtube Data api naar Angular 
+	2h 48m
+#19/11/21
+Layout maken voor Youtube data
+	1h 30m
+20/11/21
+Layout afwerken voor opzoeken youtube videos
+	4h 43m
