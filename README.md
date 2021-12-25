@@ -77,6 +77,42 @@ Omzetten Youtube Data api naar Angular
 #19/11/21
 Layout maken voor Youtube data
 	1h 30m
-20/11/21
+#20/11/21
 Layout afwerken voor opzoeken youtube videos
 	4h 43m
+#25/11/21
+Zelf een Picture in Picture maken met de youtube videos
+	2h 42m
+#29/11/21
+Youtube API in Definitieve applicatie krijgen
+	1h 12m
+#30/11/21
+Errors fixen
+	26m
+#6/12/21
+Samen zitten voor firestore
+	4h
+#9/12/21
+Beginnen aan de Settingspagina (Themes)
+	6h 48m
+#12/12/21
+Settingspagina afwerken en klaar maken voor integratie met Thomas + Leren werken met Dexie.
+	8h 12m
+#16/12/21
+Logo ontwerpen voor AudioFreak
+	2h
+Beginnen de documentatie en aan Mindmaps voor de structuur van de Databanken
+	1h
+17/12/21
+About page ontwerpen en afronden
+	5h
+19/12/21
+verder werken aan de documentaties
+	4h
+21/12/21
+Volume fix en verder werken aan documentaties
+	5h 30m
+24/12/21
+Previous en Skip button uitwerken met Thomas
+	3h
+
