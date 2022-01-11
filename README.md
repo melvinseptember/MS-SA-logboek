@@ -103,16 +103,32 @@ Logo ontwerpen voor AudioFreak
 	2h
 Beginnen de documentatie en aan Mindmaps voor de structuur van de Databanken
 	1h
-17/12/21
+#17/12/21
 About page ontwerpen en afronden
 	5h
-19/12/21
+#19/12/21
 verder werken aan de documentaties
 	4h
-21/12/21
+#21/12/21
 Volume fix en verder werken aan documentaties
 	5h 30m
-24/12/21
+#24/12/21
 Previous en Skip button uitwerken met Thomas
 	3h
+#29/12/21
+Uitwerken playlisten en documentatie
+	9h
+#30/12/21
+Documentatie verder afwerken
+	3h
+#31/12/21
+Documentatie/miro afronden
+	8h 
+#10/12/21
+Begonnen aan presentatie
+	3h
+#11/12/21
+Presentatie afronden en alles uploaden
+	4h
 
+Total hours: +- 150 uur zonder documentatie/opzoek werk.
